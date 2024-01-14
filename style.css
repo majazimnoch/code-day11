@@ -28,13 +28,13 @@ font-family: 'Genos', sans-serif;
     align-content: center;
     align-items: center;
     text-align: center;
-    padding: 7px;
 }
 
 
 h1 {
     color: #006161;
     padding-bottom: 2rem;
+    padding: 7px;
 }
 
 p {
